@@ -18,23 +18,6 @@ The Movie Recommendation System using Cosine Similarity is a Python-based applic
 
 The goal of this recommendation system is to enhance user experience by suggesting movies that are likely to align with their interests. Whether a user enjoys action-packed blockbusters or heartwarming romantic comedies, this system will analyze their past movie ratings and recommend similar movies they may not have discovered yet.
 
-## Installation
-
-To use the Movie Recommendation System, follow these installation steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/o1saurabhshukla/Movies-Recommendation-System.git
-```
-
-2. Change to the project directory:
-
-```bash
-cd Movie-Recommendation-System
-```
-
-
 ## Usage
 
 1. Prepare the dataset: You can either use your movie dataset or leverage the provided example dataset.
